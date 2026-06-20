@@ -16,6 +16,20 @@ Proyek ini merupakan implementasi Data Warehouse untuk menganalisis keterlambata
 - Atoti
 - Jupyter Notebook
 
+## Dataset
+
+Dataset yang digunakan pada proyek ini mencakup data penerbangan Amerika Serikat periode 2019–2023.
+
+**Sumber Data:**
+- Kaggle: [Flight Delay and Cancellation Dataset](https://www.kaggle.com/datasets/patrickzel/flight-delay-and-cancellation-dataset-2019-2023?select=flights_sample_3m.csv)
+
+Dataset meliputi:
+- Informasi maskapai penerbangan
+- Bandara asal dan tujuan
+- Departure delay dan arrival delay
+- Durasi dan jarak penerbangan
+- Informasi pembatalan penerbangan dan alasannya
+  
 ## Struktur Data Warehouse
 ### Fact Table
 - fact_flight
